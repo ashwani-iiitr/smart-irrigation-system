@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>			
+			Hope
+		</title>
+	</head>
+<body>
+<div><h3>Hope Irrigation System</h2></div>
+
+<a href="irrigation.php">Irrigate</a>
+
+<a href="seeding.php">Seeding</a>
+
+<a href="weeding.php">Weeding</a>
+
+
+
+</body>
+</html>
