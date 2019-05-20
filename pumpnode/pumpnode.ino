@@ -3,7 +3,7 @@
 #define PUMP D2
 
 const char* ssid = "Rn5pr0";
-const char* password = "asdf1234";
+const char* password = "********";
 
 WiFiUDP Udp;
 unsigned int localUdpPort = 4230;  // local port to listen on
